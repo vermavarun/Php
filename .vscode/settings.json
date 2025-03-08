@@ -1,3 +1,4 @@
 {
-    "php.debug.executablePath": "D:\\xampp\\php\\php.exe",
+    // "php.debug.executablePath": "D:\\xampp\\php\\php.exe",
+    "php.debug.executablePath": "C:\\PHP\\php.exe",
 }
